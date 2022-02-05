@@ -1,0 +1,1 @@
+I want to record what I studied and how I felt while getting data science certificate.
