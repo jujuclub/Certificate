@@ -344,3 +344,7 @@
 > DAsP :
 > 08:29 ~ 08:34 (5분)
 > 다시 기억이 안 난다. 계속 한다.
+
+### 2022년 2월 27일
+- [ADsP - 시험준비](https://juwon2021.tistory.com/267)
+- [ADsP - 시험후기](https://juwon2021.tistory.com/268)
