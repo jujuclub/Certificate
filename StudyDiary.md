@@ -439,5 +439,5 @@
 > 채점했는데 너무 많이 틀렸다. 결국 이해해야 한다. 이해가 안 되니 정답을 외워도 나중에 까먹는다. 다음주까지 어떻게 준비해야 하는가?
 
 ### 2022년 3월 12일
-- [SQLD - 시험준비](https://juwon2021.tistory.com/296)
-- [SQLD - 시험후기](https://juwon2021.tistory.com/295)
+- [SQLD - 시험준비](https://juwon2021.tistory.com/295)
+- [SQLD - 시험후기](https://juwon2021.tistory.com/296)
