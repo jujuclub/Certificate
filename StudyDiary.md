@@ -442,6 +442,7 @@
 ### 2022년 3월 12일
 - [SQLD - 시험준비](https://juwon2021.tistory.com/295)
 - [SQLD - 시험후기](https://juwon2021.tistory.com/296)
+- [SQLD - 시험결과](https://juwon2021.tistory.com/368)
 
 ### 2022년 3월 14일
 > DAsP :
